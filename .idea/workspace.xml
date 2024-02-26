@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2f744f8-3f1e-4a50-a11f-67f7842e6c72" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/sampath/Desktop/My profile/Assests/Icons",
+    "last_opened_file_path": "/home/sampath/Desktop/My profile/Assests/Images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,8 +50,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Assests/Icons" />
       <recent name="$PROJECT_DIR$/Assests/Images" />
+      <recent name="$PROJECT_DIR$/Assests/Icons" />
       <recent name="$PROJECT_DIR$/Assests" />
       <recent name="$PROJECT_DIR$/.idea/Assests" />
     </key>
@@ -74,6 +73,7 @@
       <workItem from="1706495914080" duration="163000" />
       <workItem from="1708744799170" duration="6000" />
       <workItem from="1708933404866" duration="3974000" />
+      <workItem from="1708937400911" duration="874000" />
     </task>
     <servers />
   </component>
